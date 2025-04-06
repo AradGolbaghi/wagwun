@@ -3,7 +3,7 @@ import threading
 import requests
 import time
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1358195372807163974/jZAQa2oQAamtYG9ykykIlTMnAm-qMqwgQXP0xLgvCl6xhr5lmFEHwF9BG4YlVJ4MfWTG"
+WEBHOOK_URL = "YOUR_WEBHOOD_URL"
 log = ""
 lock = threading.Lock()
 interval = 5
